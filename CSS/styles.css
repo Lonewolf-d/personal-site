@@ -51,12 +51,12 @@ padding: 100px;
 }
 .first-cloud{
   position: absolute;
-  top:40px;
+  top:50px;
   right:200px;
 }
 .second-cloud{
   position:absolute;
-  top: 250px;
+  top: 50px;
   left: 200px;
 }
 .medical{
